@@ -11,6 +11,9 @@
 ![alt text](Umgebung7.png) 
 ![alt text](Umgebung8.png)
 ![alt text](Umgebung9.png) 
+
+## Elastische IP
+![alt text](ElasticIP.png)
 ## via SSH verbinden
 ![alt text](Umgebung10.png) 
 
@@ -72,3 +75,39 @@
 
 ## PhpMyAdmin erstes Login
 ![alt text](phpmyadminlogin.png)
+
+## per FTP verbinden, um wordpress Dateien hochzuladen 
+![alt text](FTP.png)
+
+![alt text](DateienHochladen.png)
+
+## unzip installieren
+![alt text](Unzip.png)
+
+## temporärer Ordner für wp Dateien
+![alt text](temporärerOrdner.png)
+
+## Dateien in temporären Ordner entzipen
+![alt text](Dateienentzipen.png)
+
+## Dateien in var/www/html Ordner verschieben
+![alt text](DateienHTMLOrdner.png)
+
+## Datenbank importieren
+![alt text](DB-import.png)
+
+## Konfiguration nochmals anpassen
+![alt text](ConfigANpassen.png)
+
+## Berechtigungen für html Ordner anpassen
+![alt text](Berechtigungen.png)
+
+## PHP mysqli installieren
+![alt text](phpmysqli.png)
+
+## DNS-Server mit Zone eingerichtet mit folgender Anleitung:
+https://tecadmin.net/configure-dns-server-on-ubuntu-linuxmint/#:~:text=How%20to%20Setup%20Your%20Own%20DNS%20Server%20on,6%20Step%206%3A%20Testing%20the%20DNS%20Server%20
+
+## Endergebnis
+![alt text](ENdprodukt.png)
+
