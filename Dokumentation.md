@@ -76,10 +76,15 @@
 ## PhpMyAdmin erstes Login
 ![alt text](phpmyadminlogin.png)
 
-## per FTP verbinden, um wordpress Dateien hochzuladen 
-![alt text](FTP.png)
+## Passwort von WOrdpress zurückgesetzt
+![alt text](Passwort1.png)
+![alt text](Passwort2.png)
 
-![alt text](DateienHochladen.png)
+## Login in Wordpress mit neuem Passwort
+![alt text](Passwort3.png)
+
+
+## Da ich keine verbindung mit dem FTP Server herstellen konnte, habe ich einfach die dateien lokal auf mein Gerät abgelegt und dann via SSH auf den Ubuntu Server kopiert
 
 ## unzip installieren
 ![alt text](Unzip.png)
@@ -108,6 +113,13 @@
 ## DNS-Server mit Zone eingerichtet mit folgender Anleitung:
 https://tecadmin.net/configure-dns-server-on-ubuntu-linuxmint/#:~:text=How%20to%20Setup%20Your%20Own%20DNS%20Server%20on,6%20Step%206%3A%20Testing%20the%20DNS%20Server%20
 
+## Datenbank Backup Script
+### Ich habe im /var/www/html Ordner ein Dackup-Script gemacht ,,backupDB.sh'' , welches jeweils einmal pro Tag einen Dump erstellt von der wp-Datenbank und im Directory backups ablegt. 
+![alt text](DBbackupScript.png)
+## Crontab 
+![alt text](crontab.png)
+
 ## Endergebnis
 ![alt text](ENdprodukt.png)
+
 
